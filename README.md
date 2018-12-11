@@ -1,4 +1,4 @@
-# socket-social-network
+# Distributed System Design – Social Network
 A Facebook-like social network with multiple concurrent users.
 
 ## Set Up Instructions
